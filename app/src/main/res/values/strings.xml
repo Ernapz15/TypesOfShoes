@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TypesOfShoes</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">%d IDR</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : %d IDR</string>
+    <string name="total_order">Total pesanan : %d IDR</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hey, I have redeem %1$d Shoes in Shop with total %2$d Points. Do you want too?</string>
+    <string name="converse">Converse terus populer di kalangan anak muda, terutama Chuck Taylor All-Stars dan Jack Purcell. Meskipun sederhana, modelnya tetap diminati. Beragam tipe sepatu Converse menawarkan kesan menarik dengan harga sekitar Rp500 ribuan.</string>
+    <string name="adidas">Adidas tetap populer di dunia sepatu sport, terutama dengan model legendaris seperti Stan Smith. Meskipun harganya cenderung tinggi, desain asli dan kenyamanannya membuatnya tetap diminati.</string>
+    <string name="vans">Sepatu Vans terus populer dengan model uniknya, seperti Checkerboard Slip On dan Old Skool yang menarik perhatian. Vans Authentic juga diminati oleh berbagai kalangan dengan kisaran harga sekitar Rp800 ribu.</string>
+    <string name="reebok">Reebok Classic, dengan desain hitamnya yang serba guna, cocok untuk sekolah dan kegiatan sehari-hari. Sementara Reebok Aztec, ideal untuk olahraga lari dengan ciri khas asimetris dan outsole karet stud diamond, memiliki versi terbaru yang tetap mempertahankan desainnya yang populer.</string>
+    <string name="nike">Nike Air Rift, dirilis pada 1996, terus diminati dengan desain mirip sepatu ninja dan kelebihan kelenturan serta model terbuka. Uniknya, tidak perlu kaos kaki saat menggunakannya karena sudah nyaman tanpa tambahan tersebut.</string>
+    <string name="new_balance">New Balance 247, lebih untuk gaya daripada olahraga, memiliki desain minimalis yang futuristik dan memberikan tampilan sporty. Tersedia dalam beragam warna dengan harga sekitar Rp800 ribu.</string>
+    <string name="wakai">Wakai, terkenal dengan model sepatunya yang unik, memiliki Wakai GYOU dengan sol yang sedikit lebih tinggi. Meski berbeda dari model lainnya, GYOU tetap diminati dan terbuat dari bahan katun rajut yang memungkinkannya mengikuti gerakan kaki dengan kenyamanan dan ringan saat digunakan, cocok untuk hang out.</string>
+    <string name="diodora">Diadora, terus berinovasi dengan produk unggulannya seperti Diadora N9000 H Ita Design, diproduksi di pabrik Italia. Tersedia dalam empat pilihan warna yang cocok untuk pria dan wanita, menawarkan kesempatan untuk tampil berbeda dengan gaya yang unik.</string>
+    <string name="puma">Puma terus menjadi pilihan populer dengan koleksi seperti Suede Classic All Black, dicari banyak orang karena desainnya dengan garis putih panjang di samping hingga tumit. Harganya sekitar Rp900 ribu.</string>
+    <string name="league">Sepatu Piero, terkenal dengan kenyamanannya, memiliki tipe populer bernama Piero Jogger. Dengan desain kelas dunia dan sol tumit sedikit lebih tinggi, terutama dalam warna biru tua dan orange yang menjadi favorit.</string>
+    <string name="kodachi">Sepatu Kodachi, awalnya dibuat di Jepang, sering digunakan oleh atlet voli dan bulutangkis. Dikenal dengan gaya retro, cocok dipadukan dengan celana jeans atau cutbray. Populer di semua kalangan dengan desain retro dan harga terjangkau.</string>
+    <string name="piero">Piero, sepatu dalam negeri yang nyaman, populer dengan Piero Jogger yang memiliki desain kelas dunia dan sol tumit yang sedikit lebih tinggi. Warna biru tua dan orange sangat diminati oleh pembeli.</string>
+    <string name="nama">Ernawati Purnama Zebua</string>
+    <string name="email">ernawatipurnama150302@gmail.com</string>
+</resources>
